@@ -1,4 +1,4 @@
-# Hi, I'm Mousumi 👋
+# Hi 👋, I'm Mousumi 👩🏻‍💻
 
 Frontend Developer based in Kolkata, India. I build clean, accessible web interfaces and am currently expanding into full stack development.
 
