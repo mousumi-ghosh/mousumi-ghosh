@@ -2,6 +2,8 @@
 
 Frontend Developer based in Kolkata, India. I build clean, accessible web interfaces and am currently expanding into full stack development.
 
+![](https://komarev.com/ghpvc/?username=mousumi-ghosh)
+
 ---
 
 ## 🛠️ Skills
@@ -38,5 +40,3 @@ Frontend Developer based in Kolkata, India. I build clean, accessible web interf
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosh-mousumi)
-
-![](https://komarev.com/ghpvc/?username=mousumi-ghosh)
