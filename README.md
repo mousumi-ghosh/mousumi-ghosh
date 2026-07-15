@@ -2,8 +2,7 @@
 
 # Hi there! I'm Mousumi 👋
 
-<!-- Typing Text Effect -->
-<img src="https://demolab.com" alt="Typing Effect" />
+### 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in Kolkata, India
 
 </div>
 
@@ -19,29 +18,16 @@ Currently, I am bridging the gap between design and functionality by expanding m
 ### 🛠️ My Tech Stack
 
 #### ✨ Frontend Development
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Redux" />
-  <img src="https://shields.io" alt="TailwindCSS" />
-</p>
+* **Languages:** `HTML5` • `CSS3` • `JavaScript` • `TypeScript`
+* **Libraries & Frameworks:** `React` • `Redux` • `TailwindCSS`
 
 #### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="ExpressJS" />
-  <img src="https://shields.io" alt="MySQL" />
-</p>
+* **Server Side:** `Node.js` • `Express.js`
+* **Databases:** `MySQL`
 
 #### 🧰 Architecture, Testing & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Storybook" />
-  <img src="https://shields.io" alt="Jest" />
-</p>
+* **Workflow:** `Git` • `Storybook`
+* **Testing:** `Jest`
 
 ---
 
@@ -53,37 +39,20 @@ Currently, I am bridging the gap between design and functionality by expanding m
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" width="400px" alt="Mousumi's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://vercel.app" width="360px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
-</div>
+GitHub statistics servers are occasionally unstable. You can view my live contribution history, pinned repositories, and commit history directly right above this README!
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosh-mousumi)
+<a href="https://www.linkedin.com/in/ghosh-mousumi" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
 
 <br />
 
 <div align="right">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <img src="(https://komarev.com/ghpvc/?username=mousumi-ghosh" alt="Profile Views" />
 </div>
