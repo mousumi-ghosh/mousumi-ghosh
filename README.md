@@ -1,42 +1,89 @@
-# Hi 👋, I'm Mousumi 👩🏻‍💻
+<div align="center">
 
-Frontend Developer based in Kolkata, India. I build clean, accessible web interfaces and am currently expanding into full stack development.
+# Hi there! I'm Mousumi 👋
 
-![](https://komarev.com/ghpvc/?username=mousumi-ghosh)
+<!-- Typing Text Effect -->
+<img src="https://demolab.com" alt="Typing Effect" />
 
----
-
-## 🛠️ Skills
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Currently
+### 💫 About Me
 
-- 🔨 Building full stack projects with React & Node.js
-- 📖 Deepening JavaScript fundamentals
-- 🌱 Open to frontend & full stack opportunities
+I craft clean, responsive, and highly accessible web interfaces. 
+Currently, I am bridging the gap between design and functionality by expanding my skills into full-stack development.
 
 ---
 
-## 📫 Connect
+### 🛠️ My Tech Stack
+
+#### ✨ Frontend Development
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Redux" />
+  <img src="https://shields.io" alt="TailwindCSS" />
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="ExpressJS" />
+  <img src="https://shields.io" alt="MySQL" />
+</p>
+
+#### 🧰 Architecture, Testing & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Storybook" />
+  <img src="https://shields.io" alt="Jest" />
+</p>
+
+---
+
+### 🚀 Focus Areas & Learning
+
+- 🔨 **Building:** Scalable full stack web applications using React and Node.js.
+- 📖 **Deepening:** Core JavaScript algorithms and advanced architectural patterns.
+- 🌱 **Open To:** Frontend and Full Stack developer opportunities.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" width="400px" alt="Mousumi's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://vercel.app" width="360px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
+</div>
+
+---
+
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosh-mousumi)
+
+<br />
+
+<div align="right">
+  <img src="https://komarev.com" alt="Profile Views" />
+</div>
