@@ -2,7 +2,7 @@
 
 # Hi there! I'm Mousumi 👋
 
-### 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in Kolkata, India
+### 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in India
 
 </div>
 
@@ -48,11 +48,11 @@ GitHub statistics servers are occasionally unstable. You can view my live contri
 ### 📫 Connect
 
 <a href="https://www.linkedin.com/in/ghosh-mousumi" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br />
 
 <div align="right">
-  <img src="(https://komarev.com/ghpvc/?username=mousumi-ghosh" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mousumi-ghosh" alt="Profile Views" />
 </div>
