@@ -2,7 +2,7 @@
 
 # Hi there! I'm Mousumi 👋
 
-### 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in India
+# 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in India
 
 </div>
 
@@ -28,6 +28,7 @@ Currently, I am bridging the gap between design and functionality by expanding m
 #### 🧰 Architecture, Testing & Tools
 * **Workflow:** `Git` • `Storybook`
 * **Testing:** `Jest`
+* **Design:** `Figma`
 
 ---
 
