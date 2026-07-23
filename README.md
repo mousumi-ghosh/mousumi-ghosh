@@ -40,12 +40,6 @@ Currently, I am bridging the gap between design and functionality by expanding m
 
 ---
 
-### 📊 GitHub Activity
-
-GitHub statistics servers are occasionally unstable. You can view my live contribution history, pinned repositories, and commit history directly right above this README!
-
----
-
 ### 📫 Connect
 
 <a href="https://www.linkedin.com/in/ghosh-mousumi" target="_blank">
