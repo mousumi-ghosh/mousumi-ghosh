@@ -2,7 +2,7 @@
 
 # Hi there! I'm Mousumi 👋
 
-# 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Based in India
+# 👩🏻‍💻 Frontend Developer | Full Stack Explorer | Software Engineer| Based in India
 
 </div>
 
